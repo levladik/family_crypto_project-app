@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/family_crypto_project-app/static/css/main.c7ec3132.css",
+    "main.css": "/family_crypto_project-app/static/css/main.32df7150.css",
     "main.js": "/family_crypto_project-app/static/js/main.249a434c.js",
     "index.html": "/family_crypto_project-app/index.html",
-    "main.c7ec3132.css.map": "/family_crypto_project-app/static/css/main.c7ec3132.css.map",
+    "main.32df7150.css.map": "/family_crypto_project-app/static/css/main.32df7150.css.map",
     "main.249a434c.js.map": "/family_crypto_project-app/static/js/main.249a434c.js.map"
   },
   "entrypoints": [
-    "static/css/main.c7ec3132.css",
+    "static/css/main.32df7150.css",
     "static/js/main.249a434c.js"
   ]
 }
