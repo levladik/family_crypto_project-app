@@ -1,9 +1,7 @@
 {
   "files": {
-    "main.css": "/family_crypto_project-app/static/css/main.b9b8d21f.css",
-    "main.js": "/family_crypto_project-app/static/js/main.67e4d365.js",
-    "static/media/select-token.jpg": "/family_crypto_project-app/static/media/select-token.77345b84bdda2a347a0c.jpg",
-    "static/media/photo_2024-06-18_14-40-56.jpg": "/family_crypto_project-app/static/media/photo_2024-06-18_14-40-56.b827c6ccbc5c1b0bd6a1.jpg",
+    "main.css": "/family_crypto_project-app/static/css/main.e35cd67b.css",
+    "main.js": "/family_crypto_project-app/static/js/main.d28b9b18.js",
     "static/media/roboto-latin-500-normal.woff2": "/family_crypto_project-app/static/media/roboto-latin-500-normal.f25d774ecfe0996f8eb5.woff2",
     "static/media/roboto-latin-700-normal.woff2": "/family_crypto_project-app/static/media/roboto-latin-700-normal.227c93190fe7f82de3f8.woff2",
     "static/media/roboto-latin-400-normal.woff2": "/family_crypto_project-app/static/media/roboto-latin-400-normal.b009a76ad6afe4ebd301.woff2",
@@ -11,14 +9,12 @@
     "static/media/roboto-cyrillic-ext-400-normal.woff2": "/family_crypto_project-app/static/media/roboto-cyrillic-ext-400-normal.804378952da8a10faae2.woff2",
     "static/media/roboto-cyrillic-ext-300-normal.woff2": "/family_crypto_project-app/static/media/roboto-cyrillic-ext-300-normal.4777461b144e55145268.woff2",
     "static/media/roboto-cyrillic-ext-500-normal.woff2": "/family_crypto_project-app/static/media/roboto-cyrillic-ext-500-normal.62ced72e5832f02c2796.woff2",
-    "static/media/photo_2024-06-17_19-23-24.jpg": "/family_crypto_project-app/static/media/photo_2024-06-17_19-23-24.f670bd626b7649b2d85e.jpg",
     "static/media/roboto-cyrillic-ext-700-normal.woff2": "/family_crypto_project-app/static/media/roboto-cyrillic-ext-700-normal.be4d02458ce53887dc37.woff2",
     "static/media/roboto-latin-300-normal.woff": "/family_crypto_project-app/static/media/roboto-latin-300-normal.0515ab82dae6923cab85.woff",
     "static/media/roboto-latin-500-normal.woff": "/family_crypto_project-app/static/media/roboto-latin-500-normal.1f075502d0094a398e21.woff",
     "static/media/roboto-latin-700-normal.woff": "/family_crypto_project-app/static/media/roboto-latin-700-normal.666d7a2f9db53cf52e2d.woff",
     "static/media/roboto-latin-400-normal.woff": "/family_crypto_project-app/static/media/roboto-latin-400-normal.3f2b9a42f643e62a49b7.woff",
     "static/media/roboto-cyrillic-ext-300-normal.woff": "/family_crypto_project-app/static/media/roboto-cyrillic-ext-300-normal.3503ec5cc6330e21f695.woff",
-    "static/media/photo_2024-06-18_14-41-01.jpg": "/family_crypto_project-app/static/media/photo_2024-06-18_14-41-01.db1ef9417b96d7bbb17b.jpg",
     "static/media/roboto-cyrillic-ext-400-normal.woff": "/family_crypto_project-app/static/media/roboto-cyrillic-ext-400-normal.af4d91666ea345601bea.woff",
     "static/media/roboto-cyrillic-ext-500-normal.woff": "/family_crypto_project-app/static/media/roboto-cyrillic-ext-500-normal.268f264f58eba5c07c88.woff",
     "static/media/roboto-cyrillic-ext-700-normal.woff": "/family_crypto_project-app/static/media/roboto-cyrillic-ext-700-normal.198a421f279162d59143.woff",
@@ -63,11 +59,11 @@
     "static/media/roboto-greek-ext-400-normal.woff": "/family_crypto_project-app/static/media/roboto-greek-ext-400-normal.f708607d2a7290fb8bfa.woff",
     "static/media/roboto-greek-ext-700-normal.woff": "/family_crypto_project-app/static/media/roboto-greek-ext-700-normal.249853776d22a271b2b5.woff",
     "index.html": "/family_crypto_project-app/index.html",
-    "main.b9b8d21f.css.map": "/family_crypto_project-app/static/css/main.b9b8d21f.css.map",
-    "main.67e4d365.js.map": "/family_crypto_project-app/static/js/main.67e4d365.js.map"
+    "main.e35cd67b.css.map": "/family_crypto_project-app/static/css/main.e35cd67b.css.map",
+    "main.d28b9b18.js.map": "/family_crypto_project-app/static/js/main.d28b9b18.js.map"
   },
   "entrypoints": [
-    "static/css/main.b9b8d21f.css",
-    "static/js/main.67e4d365.js"
+    "static/css/main.e35cd67b.css",
+    "static/js/main.d28b9b18.js"
   ]
 }
