@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/family_crypto_project-app/static/css/main.cfe25e4f.css",
-    "main.js": "/family_crypto_project-app/static/js/main.d28b9b18.js",
+    "main.css": "/family_crypto_project-app/static/css/main.87d4560a.css",
+    "main.js": "/family_crypto_project-app/static/js/main.b829094a.js",
     "static/media/roboto-latin-500-normal.woff2": "/family_crypto_project-app/static/media/roboto-latin-500-normal.f25d774ecfe0996f8eb5.woff2",
     "static/media/roboto-latin-700-normal.woff2": "/family_crypto_project-app/static/media/roboto-latin-700-normal.227c93190fe7f82de3f8.woff2",
     "static/media/roboto-latin-400-normal.woff2": "/family_crypto_project-app/static/media/roboto-latin-400-normal.b009a76ad6afe4ebd301.woff2",
@@ -59,11 +59,11 @@
     "static/media/roboto-greek-ext-400-normal.woff": "/family_crypto_project-app/static/media/roboto-greek-ext-400-normal.f708607d2a7290fb8bfa.woff",
     "static/media/roboto-greek-ext-700-normal.woff": "/family_crypto_project-app/static/media/roboto-greek-ext-700-normal.249853776d22a271b2b5.woff",
     "index.html": "/family_crypto_project-app/index.html",
-    "main.cfe25e4f.css.map": "/family_crypto_project-app/static/css/main.cfe25e4f.css.map",
-    "main.d28b9b18.js.map": "/family_crypto_project-app/static/js/main.d28b9b18.js.map"
+    "main.87d4560a.css.map": "/family_crypto_project-app/static/css/main.87d4560a.css.map",
+    "main.b829094a.js.map": "/family_crypto_project-app/static/js/main.b829094a.js.map"
   },
   "entrypoints": [
-    "static/css/main.cfe25e4f.css",
-    "static/js/main.d28b9b18.js"
+    "static/css/main.87d4560a.css",
+    "static/js/main.b829094a.js"
   ]
 }
